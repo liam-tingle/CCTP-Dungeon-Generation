@@ -1,0 +1,888 @@
+fileFormatVersion: 2
+guid: 2b850a1d6e9956c44841682b37fffad4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 443413997819623226
+    second: MoblinSheet_0
+  - first:
+      213: 6968216124079987635
+    second: MoblinSheet_1
+  - first:
+      213: 2632855272154513090
+    second: MoblinSheet_2
+  - first:
+      213: -4655597131161300648
+    second: MoblinSheet_3
+  - first:
+      213: -6370969462760784998
+    second: MoblinSheet_4
+  - first:
+      213: -7480192434259654900
+    second: MoblinSheet_5
+  - first:
+      213: 4322061008812826803
+    second: MoblinSheet_6
+  - first:
+      213: 2432929623334474637
+    second: MoblinSheet_7
+  - first:
+      213: -4713953078696886520
+    second: MoblinSheet_8
+  - first:
+      213: 122127322571459395
+    second: MoblinSheet_9
+  - first:
+      213: 1614042688923720272
+    second: MoblinSheet_10
+  - first:
+      213: 317648112617670493
+    second: MoblinSheet_11
+  - first:
+      213: 7212135882981813713
+    second: MoblinSheet_12
+  - first:
+      213: 6723076882689369466
+    second: MoblinSheet_13
+  - first:
+      213: -4433463627656072180
+    second: MoblinSheet_14
+  - first:
+      213: 6699492363130958434
+    second: MoblinSheet_15
+  - first:
+      213: -7486974576450123713
+    second: MoblinSheet_16
+  - first:
+      213: -2724347021578994138
+    second: MoblinSheet_17
+  - first:
+      213: 8639648597121696349
+    second: MoblinSheet_18
+  - first:
+      213: -3789468266000028909
+    second: MoblinSheet_19
+  - first:
+      213: -8026151552184173559
+    second: MoblinSheet_20
+  - first:
+      213: -4797106487285315475
+    second: MoblinSheet_21
+  - first:
+      213: -2150870825706134390
+    second: MoblinSheet_22
+  - first:
+      213: -2263216328153004085
+    second: MoblinSheet_23
+  - first:
+      213: 4287371110027433737
+    second: MoblinSheet_24
+  - first:
+      213: -3651134381436861461
+    second: MoblinSheet_25
+  - first:
+      213: 2348077894709619804
+    second: MoblinSheet_26
+  - first:
+      213: -1798853061399721248
+    second: MoblinSheet_27
+  - first:
+      213: -8420507020737760386
+    second: MoblinSheet_28
+  - first:
+      213: 8065648260076339351
+    second: MoblinSheet_29
+  - first:
+      213: 4439061505908505388
+    second: MoblinSheet_30
+  - first:
+      213: -2598582885868724759
+    second: MoblinSheet_31
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MoblinSheet_0
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 298
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3779748ea2572600800000000000000
+      internalID: 443413997819623226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoblinSheet_1
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 300
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bbdfe945a314b060800000000000000
+      internalID: 6968216124079987635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoblinSheet_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 298
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ceb8c9abe7c98420800000000000000
+      internalID: 2632855272154513090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoblinSheet_3
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 297
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8519dcb531ff36fb0800000000000000
+      internalID: -4655597131161300648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoblinSheet_4
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 267
+        width: 41
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b38494705c597a0800000000000000
+      internalID: -6370969462760784998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoblinSheet_5
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 264
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c078360ec94013890800000000000000
+      internalID: -7480192434259654900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoblinSheet_6
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 264
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b0ead7969b0bfb30800000000000000
+      internalID: 4322061008812826803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoblinSheet_7
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 264
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83506a2a9083c120800000000000000
+      internalID: 2432929623334474637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoblinSheet_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 230
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80fb96886aca49eb0800000000000000
+      internalID: -4713953078696886520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoblinSheet_9
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 230
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34bcd3f1722e1b100800000000000000
+      internalID: 122127322571459395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoblinSheet_10
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 230
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a5d95264b366610800000000000000
+      internalID: 1614042688923720272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoblinSheet_11
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 233
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5746248643886400800000000000000
+      internalID: 317648112617670493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoblinSheet_12
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 189
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ddaaf0cf57a61460800000000000000
+      internalID: 7212135882981813713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoblinSheet_13
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 191
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75275eedca2d4d50800000000000000
+      internalID: 6723076882689369466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoblinSheet_14
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 189
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04f1f4f15c2972c0800000000000000
+      internalID: -4433463627656072180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoblinSheet_15
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 187
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262fcdf0fc069fc50800000000000000
+      internalID: 6699492363130958434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoblinSheet_16
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 134
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f384f485a4ce81890800000000000000
+      internalID: -7486974576450123713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoblinSheet_17
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 134
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ef3ed61dc213ad0800000000000000
+      internalID: -2724347021578994138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoblinSheet_18
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 134
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5204afcf9236e770800000000000000
+      internalID: 8639648597121696349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoblinSheet_19
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 134
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31be37580ba196bc0800000000000000
+      internalID: -3789468266000028909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoblinSheet_20
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 97
+        width: 50
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90cbc9a00b16d9090800000000000000
+      internalID: -8026151552184173559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoblinSheet_21
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 97
+        width: 50
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6803a3e0114d6db0800000000000000
+      internalID: -4797106487285315475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoblinSheet_22
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 99
+        width: 50
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a84e80c31629622e0800000000000000
+      internalID: -2150870825706134390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoblinSheet_23
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 97
+        width: 50
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc783969db07790e0800000000000000
+      internalID: -2263216328153004085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoblinSheet_24
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 57
+        width: 50
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90715712f4dcf7b30800000000000000
+      internalID: 4287371110027433737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoblinSheet_25
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 59
+        width: 50
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be38d37ef90945dc0800000000000000
+      internalID: -3651134381436861461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoblinSheet_26
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 57
+        width: 50
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c2d13976c069020800000000000000
+      internalID: 2348077894709619804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoblinSheet_27
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 57
+        width: 50
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea4520eba03907e0800000000000000
+      internalID: -1798853061399721248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoblinSheet_28
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 8
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e733e387a79542b80800000000000000
+      internalID: -8420507020737760386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoblinSheet_29
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 10
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7900911eb50feef60800000000000000
+      internalID: 8065648260076339351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoblinSheet_30
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 8
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b79c3abe6ba9d30800000000000000
+      internalID: 4439061505908505388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoblinSheet_31
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 10
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed926812aaffebd0800000000000000
+      internalID: -2598582885868724759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
